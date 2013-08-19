@@ -1,0 +1,16 @@
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\SignalR_Chrome_Issues.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\SignalR_Chrome_Issues.pdb
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Newtonsoft.Json.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Owin.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\bin\Newtonsoft.Json.xml
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\obj\Debug\SignalR_Chrome_Issues.dll
+c:\users\dustin\documents\visual studio 2012\Projects\SignalR_Chrome_Issues\SignalR_Chrome_Issues\obj\Debug\SignalR_Chrome_Issues.pdb
